@@ -63,22 +63,6 @@ All data were merged into a single time‑series dataset (`final_df.csv`) with 1
 
 **Key finding:** Random Forest outperforms deep learning models because tree‑based algorithms handle abrupt price spikes better than RNN/LSTM (which tend to oversmooth).
 
----
-
-## Project Structure 
-Cost-Optimized-Menu-Recommendation-System/
-├── data/ # Raw & processed data (not included in repo)
-├── notebooks/
-│ ├── 01_eda.ipynb
-│ ├── 02_feature_engineering.ipynb
-│ └── 03_model_training_evaluation.ipynb
-├── models/ # Saved model weights (optional)
-├── docker/ # Dockerfile & deployment files
-├── reports/ # PDF report & figures
-├── requirements.txt
-├── README.md
-└── .gitignore
-
 
 ---
 

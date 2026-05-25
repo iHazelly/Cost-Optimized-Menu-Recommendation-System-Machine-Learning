@@ -1,6 +1,7 @@
 # Cost‑Optimized Menu Recommendation System using Machine Learning
 Paradorn Khanongsuwan (Hazell)
 This project forecasts daily prices of 13 key agricultural commodities (e.g., chicken, pork, chili, lime) seven days ahead, then calculates the total cost of 20 popular Thai dishes and recommends the most cost‑efficient menu. The system helps consumers and small food vendors plan weekly budgets under volatile market conditions.
+
 <img width="1534" height="806" alt="Visualization of deployment" src="https://github.com/user-attachments/assets/bc2bc6f4-b053-4750-ae0c-55e1ecf585d1" />
 ---
 
